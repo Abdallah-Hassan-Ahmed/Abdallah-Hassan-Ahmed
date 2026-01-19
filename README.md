@@ -10,15 +10,15 @@
   <a href="https://www.linkedin.com/in/abdallah-hassan-226230254/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
   </a>
-  <a href="abo3oraby2004@gmail.com" target="_blank">
+  <a href="mailto:abo3oraby2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-<div align="left">
+<h3 align="center">🛠 Language and tools</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
